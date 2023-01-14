@@ -26,5 +26,6 @@
         </div>
         {/foreach}
     </div>
+    <!-- giữ code nguyên form -->
 </div>
 <script src="{$url}/public/script/home.js"></script>
